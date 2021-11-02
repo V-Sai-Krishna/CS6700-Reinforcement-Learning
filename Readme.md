@@ -2,7 +2,7 @@
 ## RL- Grid world
 Consider a 10 × 10 gridworld as shown in Figure
 
-
+![alt text](https://github.com//V-Sai-Krishna/CS6700-Reinforcement-Learning/rlgrid.png?raw=true)
 
 State space: Gridworld has 100 distinct states. There is a special absorbing state called ”Goal”. There are other special non-absorbing states called ”sub-goals” that are scattered around the gridworld. All other states are referred to as ”normal” states.
 
